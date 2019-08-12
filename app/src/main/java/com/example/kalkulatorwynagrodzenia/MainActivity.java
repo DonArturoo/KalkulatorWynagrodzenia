@@ -16,7 +16,7 @@ import org.w3c.dom.Text;
 public class MainActivity extends AppCompatActivity {
 
     EditText netto;
-    TextView brutto;
+    EditText brutto;
     Button przelicz;
     ToggleButton toggleButton;
     int net=0;
